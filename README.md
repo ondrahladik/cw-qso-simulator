@@ -51,3 +51,9 @@ static const QSOStep QSO_SCRIPT[] = {
 - Second element: text to send in Morse code (alphanumeric, spaces, and `/` supported)
 
 Add or remove entries to create your own QSO. The script repeats continuously with `PAUSE_QSO_MS` silence between cycles.
+
+## Example installation
+
+![image 1](img/img1.jpeg)
+![image 2](img/img2.jpeg)
+![image 3](img/img3.jpeg)
